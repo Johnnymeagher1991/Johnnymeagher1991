@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Johnny 👋
 
-<!--
-**Johnnymeagher1991/Johnnymeagher1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[Learnsignal](https://learnsignal.com)** and building **[Proco](https://procohq.com)** — based in Dublin, Ireland.
 
-Here are some ideas to get you started:
+I work across three things:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Finance training** — Running [Learnsignal](https://learnsignal.com), where we help thousands of accountants train and qualify across ACCA, CIMA and CPA.
+
+⛓️ **Blockchain** — Building [Proco](https://procohq.com), the on-chain financial layer for AI agents — programmable wallets, payments, conditions, and treasury.
+
+🧬 **AI x biology** — A long-term passion. I believe AI will help cure disease and meaningfully extend healthy human and animal life. I follow the field closely and back the people building it.
+
+---
+
+📍 Dublin, Ireland
+🌐 [learnsignal.com](https://learnsignal.com) · [procohq.com](https://procohq.com)
